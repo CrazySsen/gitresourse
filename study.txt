@@ -6,3 +6,5 @@ hellworld！！！
 修改BUG完毕！！！我是修改Bug分支BUG001
 分支sheng已经完成工作！！
 master完成和分支sheng的合并
+
+我是master分支，我操作了master的内容！！
